@@ -16,6 +16,9 @@ The number of movies produced per year 
 The audience score for each film  
 The profitability per studio 
 The worldwide gross per genre 
+![Analysis Dasbord 1](https://user-images.githubusercontent.com/119512038/208076370-8fc871ea-e8a5-4ccd-8336-ce6a24408f3d.PNG)
+![Analysis Dashbaord](https://user-images.githubusercontent.com/119512038/208076520-8a96e5d7-dedf-47c2-878c-72be8aae444a.png)
+
 
 
 
