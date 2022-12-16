@@ -9,13 +9,13 @@ Newly created & Cleaned file was then exporeted to PowerBI to create data vizual
 
 In Power BI Dashboard, the client would like to see: 
 For the dashboard, the company would like you to use their brand colors which are blue, green and brown. 
-You can use light or dark shades of each color.
-For example, light blue and dark blue are acceptable. 
-The average Rotten Tomatoes ratings of each genre
-The number of movies produced per year 
-The audience score for each film  
-The profitability per studio 
-The worldwide gross per genre 
+#You can use light or dark shades of each color.
+#For example, light blue and dark blue are acceptable. 
+#The average Rotten Tomatoes ratings of each genre
+#The number of movies produced per year 
+#The audience score for each film  
+#The profitability per studio 
+#The worldwide gross per genre 
 
 ![Analysis Dasbord 1](https://user-images.githubusercontent.com/119512038/208076370-8fc871ea-e8a5-4ccd-8336-ce6a24408f3d.PNG)
 
