@@ -22,6 +22,7 @@ Finding 2:  Romance movies took over the popularity of Comedy films in 2011 as p
 Finding 3: Sony, Fox & Disney were the top three market leaders, where Sony was leading with less than 1% profitability over Fox & Disney
 
 Finding 4: Overall profitability depends on the quality of the film produced and not on Genre it’s produced in. Tangled total gross was 355.4 Million and Its Animation Movie. 
+
 Finding 5: There is a huge mismatch between RottenTomatoes Scoring & Worldwide scoring.
 
 Finding 6: Wating for forever didnt do well in terms of profitability because of independant production, as I belive there is a impact of repputation of the produciton studio as well on Audience psychology. 
